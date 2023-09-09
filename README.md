@@ -25,3 +25,7 @@ Ensemble ML methods
 Bagging
 Boosting
 Stacking
+
+This work was published in Turkish Journal of Electrical Engineering and Computer Sciences
+SAIHOOD, QUSAY and SONUÇ, EMRULLAH (2023) "A practical framework for early detection of diabetes using ensemble machine learning models," Turkish Journal of Electrical Engineering and Computer Sciences: Vol. 31: No. 4, Article 4. https://doi.org/10.55730/1300-0632.4013
+Available at: https://journals.tubitak.gov.tr/elektrik/vol31/iss4/4
